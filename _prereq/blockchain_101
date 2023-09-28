@@ -1,1 +1,4 @@
+BLOCKCHAIN
 
+A blockchain is a kind of database architecture that stores data in a so-called "block" then that block is shared among all the computers in the 
+network for validation. Once validated, the block will be added to the blockchain.
