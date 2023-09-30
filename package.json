@@ -1,7 +1,7 @@
 {
   "name": "theblokc-solana-dev-bootcamp",
   "version": "1.0.0",
-  "description": "",
+  "description": "sh -c \"$(curl -sSfL https://release.solana.com/v1.16.15/install)\"    curl https://sh.rustup.rs -sSf | sh       npm i @solana/web3.js dotenv bs58 ts-node typescript",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
